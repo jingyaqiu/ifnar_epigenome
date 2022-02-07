@@ -1,0 +1,26 @@
+{
+    "atac.title" : "Revisions ATAC - R499 SKO",
+    "atac.description" : "Revisions for Xu Qiu et al.",
+
+    "atac.pipeline_type" : "atac",
+    "atac.align_only" : false,
+    "atac.true_rep_only" : false,
+
+    "atac.genome_tsv" : "https://storage.googleapis.com/encode-pipeline-genome-data/genome_tsv/v3/mm10.tsv",
+
+    "atac.paired_end" : true,
+
+    "atac.fastqs_rep1_R1" : [ "/home/jingyaq/Minn/data/revisions_NatCancer/data/201020/fastq/R499_SKO-1_S5_R1_001.fastq.gz" ],
+    "atac.fastqs_rep1_R2" : [ "/home/jingyaq/Minn/data/revisions_NatCancer/data/201020/fastq/R499_SKO-1_S5_R2_001.fastq.gz" ],
+    "atac.fastqs_rep2_R1" : [ "/home/jingyaq/Minn/data/revisions_NatCancer/data/201020/fastq/R499_SKO-2_S6_R1_001.fastq.gz" ],
+    "atac.fastqs_rep2_R2" : [ "/home/jingyaq/Minn/data/revisions_NatCancer/data/201020/fastq/R499_SKO-2_S6_R2_001.fastq.gz" ],
+    "atac.fastqs_rep3_R1" : [ "/home/jingyaq/Minn/data/revisions_NatCancer/data/201020/fastq/R499_SKO-3_S7_R1_001.fastq.gz" ],
+    "atac.fastqs_rep3_R2" : [ "/home/jingyaq/Minn/data/revisions_NatCancer/data/201020/fastq/R499_SKO-3_S7_R2_001.fastq.gz" ],
+    "atac.fastqs_rep4_R1" : [ "/home/jingyaq/Minn/data/revisions_NatCancer/data/201020/fastq/R499_SKO-4_S8_R1_001.fastq.gz" ],
+    "atac.fastqs_rep4_R2" : [ "/home/jingyaq/Minn/data/revisions_NatCancer/data/201020/fastq/R499_SKO-4_S8_R2_001.fastq.gz" ],
+
+    "atac.auto_detect_adapter" : false,
+    "atac.adapter" : "CTGTCTCTTATACACATCT",
+
+    "atac.multimapping" : 4
+}
