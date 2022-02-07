@@ -1,0 +1,26 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	PANTHER version 16.0 Released 2020-12-01
+Analyzed List:	upload_1 (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+PANTHER Pathways	Mus musculus - REFLIST (21988)	upload_1 (2687)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+JAK/STAT signaling pathway (P00038)	17	10	2.08	+	4.81	3.38E-04	7.06E-03
+FAS signaling pathway (P00020)	34	12	4.15	+	2.89	3.07E-03	3.94E-02
+EGF receptor signaling pathway (P00018)	141	42	17.23	+	2.44	3.47E-06	1.93E-04
+PDGF signaling pathway (P00047)	145	43	17.72	+	2.43	2.59E-06	2.16E-04
+Ras Pathway (P04393)	72	21	8.80	+	2.39	1.14E-03	2.12E-02
+5HT2 type receptor mediated signaling pathway (P04374)	70	19	8.55	+	2.22	3.39E-03	4.05E-02
+Apoptosis signaling pathway (P00006)	120	32	14.66	+	2.18	2.16E-04	5.16E-03
+Interleukin signaling pathway (P00036)	85	22	10.39	+	2.12	2.85E-03	3.97E-02
+Integrin signalling pathway (P00034)	189	47	23.10	+	2.03	5.16E-05	2.15E-03
+Angiogenesis (P00005)	177	44	21.63	+	2.03	7.53E-05	2.52E-03
+Gonadotropin-releasing hormone receptor pathway (P06664)	234	54	28.60	+	1.89	7.98E-05	2.22E-03
+CCKR signaling map (P06959)	163	37	19.92	+	1.86	1.27E-03	2.12E-02
+Inflammation mediated by chemokine and cytokine signaling pathway (P00031)	257	51	31.41	+	1.62	2.28E-03	3.46E-02
+Unclassified (UNCLASSIFIED)	19376	2231	2367.81	-	.94	4.52E-13	7.54E-11
